@@ -1,0 +1,15 @@
+{
+  "name": "delete-repos",
+  "version": "1.0.0",
+  "description": "A simple node.js app to delete repos in bulk from GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Claudia Benito",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
