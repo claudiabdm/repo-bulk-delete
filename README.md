@@ -18,7 +18,7 @@ Then, use the following command to delete your repos:
 npm start
 ```
 
-# repo-bulk-delete (Spanish)
+# repo-bulk-delete (Español)
 Un script muy sencillo de node.js para eliminar varios repositorios a la ver de GitHub.
 
 ## Requisitos
