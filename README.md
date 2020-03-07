@@ -2,7 +2,8 @@
 A very simple node.js script to delete repositories in bulk using Git Hub Rest API.
 
 ## Requirements
-You will need npm in your local environment
+You will need npm in your local environment.
+https://www.npmjs.com/get-npm
 
 ## Installation
 Run the following command to install dependencies:
