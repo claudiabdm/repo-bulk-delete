@@ -12,7 +12,7 @@ npm install
 
 ## Usage
 You will need to use your own values for variables in index.js as indicated in comments. 
-Then, use the following command to run delete your repos:
+Then, use the following command to delete your repos:
 ```
 npm start
 ```
