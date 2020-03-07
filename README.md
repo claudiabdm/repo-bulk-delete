@@ -1,5 +1,5 @@
 # repo-bulk-delete
-A very simple node.js script to delete repositories in bulk using Git Hub Rest API.
+A very simple node.js script to delete repositories in bulk using GitHub Rest API.
 
 ## Requirements
 You will need npm in your local environment.
