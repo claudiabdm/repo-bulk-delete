@@ -22,7 +22,7 @@ npm start
 Un script muy sencillo de node.js para eliminar varios repositorios a la ver de GitHub.
 
 ## Requisitos
-Necesitarás npm instalado en un ambiente local.
+Necesitarás npm instalado en tu ambiente local.
 https://www.npmjs.com/get-npm
 
 ## Instalación
